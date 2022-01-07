@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Boss Battle!
 
 Bwa ha ha ha ha. Welcome Captain Mueller.    
