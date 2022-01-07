@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boss Battle!
 
 Bwa ha ha ha ha. Welcome Captain Mueller.    
@@ -6,3 +7,4 @@ You're cordially invited to come play with yours truely!
 Hope you're not ready!  
 
 [Press **A** to Ready]
+
